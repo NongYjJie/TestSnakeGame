@@ -10,7 +10,7 @@ import java.util.Scanner;
 public class B {
     public static void main(String[] args) {
         /**
-         *  取素数（质数）
+         *  取素 数（质数）
          */
         for (int i = 1; i < 100; i++) {
             boolean mark = true;
