@@ -35,7 +35,7 @@ public class A {
         int isChange;
         int num = 0;
 
-        int[] arrys =  {9,8,7,6,5,4,3,2,1,0};
+        int[] arrys =  {10,9,8,7,6,5,4,3,2,1,0};
         //外层循环是排序的趟数
         for (int i = 0; i < arrys.length-1; i++) {
             //每比较一趟就重新初始化为0
