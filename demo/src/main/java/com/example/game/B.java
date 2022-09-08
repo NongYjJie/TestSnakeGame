@@ -12,7 +12,7 @@ public class B {
         /**
          *  取素数（质数）
          */
-        for (int i = 1; i < 100; i++) {
+        for (int i = 1; i < 98; i++) {
             boolean mark = true;
             for (int k = 2; 2 * k - 1 < i; k++) {
                 if (i % k == 0) {
